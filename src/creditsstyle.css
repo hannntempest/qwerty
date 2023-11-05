@@ -1,0 +1,14 @@
+body {
+    background-image: url(../assets/astral.png);
+}
+
+#group {
+    color: chartreuse;
+    font-size: 36px;
+    text-align: center;
+}
+
+li {
+    color: chartreuse;
+    font-size: 20px;
+}
